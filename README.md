@@ -1,7 +1,5 @@
 # TO Do List
 
-## Summary 
-
 The assignment was to creat a To Do List that would look good on mobile devices, allowed adding and removing tasks, and allowed the user to move and item from pending to complete and vice versa *(see below)*. 
 
 <img src="images/IMG00.png">
